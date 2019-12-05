@@ -1,5 +1,5 @@
 
-#include ".include/factorial.h"
+#include "Factorial.h"
 
 long factorial(long n) {
   long result = 1;
