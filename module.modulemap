@@ -1,5 +1,0 @@
-module CGetFactorial {
-  header "Sources/CGetFactorial/Factorial.h"
-  link "Factorial"
-  export *
-}
